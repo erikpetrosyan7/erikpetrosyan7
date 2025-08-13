@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Erik Petrosyan 👋
 
-<!--
-**erikpetrosyan7/erikpetrosyan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Frontend Developer**  
+🚀 Passionate about coding, learning, and building useful apps.  
+📍 Based in Yerevan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- **Languages:** HTML, CSS (SCSS), JavaScript
+- **Frameworks & Libraries:** React
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+### [Tetris] (https://erikpetrosyan7.github.io/tetris/)
+A modern, browser-based take on the classic Tetris game.  
+Features smooth controls, live score tracking, and a responsive design for both desktop and mobile.  
+**Tech Stack:** React, SCSS
+
+---
+
+### [Budget Tracker] (https://erikpetrosyan7.github.io/budget-tracker/)
+A simple and intuitive web app to track income and expenses.  
+Allows users to add transactions, categorize them, and view the remaining balance in real-time.  
+**Tech Stack:** React, SCSS
+
+
