@@ -27,3 +27,10 @@ Allows users to add transactions, categorize them, and view the remaining balanc
 **Tech Stack:** React, SCSS
 
 
+---
+
+### [To-do app] (https://erikpetrosyan7.github.io/To-do-app/)
+A modern Todo application built with React, TypeScript, and Vite. Features include add, edit, 
+delete tasks, dark mode, and localStorage persistence.
+
+
